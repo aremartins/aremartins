@@ -4,7 +4,7 @@
 
 <h1 id="name">Aretha de Albuquerque Santiago Martins</h1>
         <p> &nbsp;&nbsp; Olá, tudo bem?😀 Meu nome é <strong>Aretha</strong>, sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>👩🏻‍🎓 e apaixonada pela área de tecnologia. Atualmente estou aprimorando meus conhecimentos em <abbr title="Hipertext Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> e <abbr title="JavaScript">JavaScript</abbr> pela plataforma de tecnologia <a href="http://www.alura.com.br" target="_blank" rel="no-follow">Alura.</a> Já tenho conhecimento na linguagem Python e fiz alguns cursos na área de Ciência de Dados pela <a href="https://www.datascienceacademy.com.br/pages/todos-os-cursos-dsa">Data Science Academy</a>, área que também gosto muito. </p>
-        <p> &nbsp;Atualmente estou focada nas tecnologias para especializar-me como desenvolvedora Front-End e ser a melhor profissional possível.</p>
+        <p> &nbsp;Atualmente estou focada nas tecnologias acima citadas para em breve aprender a trabalhar com frameworks como React e tudo o que envolve esse universo web para assim especializar-me como uma ótima profissional de desenvolvimento Front-End.</p>
         <p> &nbsp;A medida que adquiro conhecimento, procuro contribuir com pessoas mais iniciantes em comunidades e grupos de desenvolvedores de que participo, pois acredito que é muito importante ajudar outras pessoas, compartilhando conhecimento e aprendendo cada vez mais. </p>
             <p>&nbsp;&nbsp;<q> Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
                 ― Esopo

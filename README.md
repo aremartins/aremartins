@@ -12,7 +12,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Sou formada em Análise e Desenvolvimento de Sistemas pela faculdae <a href="http://www.umc.br/campus_mogi/graduacao/73/nucleo-de-cursos-superiores-de-tecnologia/analise-e-desenvolvimento-de-sistemas">UMC</a>.
+- 🎓 &nbsp; Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, <a href="http://www.umc.br/campus_mogi/graduacao/73/nucleo-de-cursos-superiores-de-tecnologia/analise-e-desenvolvimento-de-sistemas">UMC</a>.
 - 💼 &nbsp; Trabalho atualmente como freelancer em pequenos projetos para adquirir experiência.</a>
 - 🌱 &nbsp; Estou aprimorando meus conhecimentos em HTML, CSS e JavaScript para me tornar uma desenvolvedora de Front End muito profissional.
 

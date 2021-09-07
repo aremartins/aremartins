@@ -28,7 +28,7 @@
   
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Aretha](https://img.shields.io/badge/-Aretha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aretha-de-albuquerque-santiago-33b40b154)](https://www.linkedin.com/in/aretha-de-albuquerque-santiago-33b40b154)
+[![Aretha](https://img.shields.io/badge/-Aretha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aretha-dealbuquerque-santiago-33b40b154)](www.linkedin.com/in/aretha-dealbuquerque-santiago-33b40b154)
 [![Gmail Badge](https://img.shields.io/badge/-arealbmartinsan@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:arealbmartinsan@gmail.com)
 [![AreMartins]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/aremartins)
 

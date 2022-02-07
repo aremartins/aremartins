@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h1 id="name">Aretha Martins</h1>
-        <p> &nbsp;&nbsp; Olá, tudo bem?😀 Meu nome é <strong>Aretha</strong>, sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>👩🏻‍🎓 e apaixonada pela área de tecnologia. Trabalho atualmente como analista de desenvolvimento junior na empresa <a href="https://gestaosat.com/">SAT Rotas Inteligentes</a> e lá estou começando a atuar com Angular no frontend e C# no backend. Já tenho conhecimento na linguagem Python e fiz alguns cursos na área de Ciência de Dados pela <a href="https://www.datascienceacademy.com.br/pages/todos-os-cursos-dsa">Data Science Academy</a>, área que também gosto muito. </p>
-        <p> &nbsp;Atualmente estou focada nas tecnologias acima citadas para para assim especializar-me como uma ótima profissional de desenvolvimento.</p>
+        <p> &nbsp;&nbsp; Olá, tudo bem?😀 Meu nome é <strong>Aretha</strong>, sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>👩🏻‍🎓 e apaixonada pela área de tecnologia. Trabalho atualmente como desenvolvedora front end na empresa <a href="https://www.itau.com.br/itaubba-pt/">Itau Unibanco</a>, atuando com framework Angular. 
         <p> &nbsp;A medida que adquiro conhecimento, procuro contribuir com pessoas mais iniciantes em comunidades e grupos de desenvolvedores de que participo, pois acredito que é muito importante ajudar outras pessoas, compartilhando conhecimento e aprendendo cada vez mais. </p>
             <p>&nbsp;&nbsp;<q> Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
                 ― Esopo
@@ -14,7 +13,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, <a href="http://www.umc.br/campus_mogi/graduacao/73/nucleo-de-cursos-superiores-de-tecnologia/analise-e-desenvolvimento-de-sistemas">UMC</a>.
 - 💼 &nbsp; Trabalho atualmente como freelancer em pequenos projetos para adquirir experiência.</a>
-- 🌱 &nbsp; Estou aprimorando meus conhecimentos em HTML, CSS, JavaScript e Java.
+- 🌱 &nbsp; Estou aprimorando meus conhecimentos em Angular, projetos com arquitetura micro frontend utilizando NX e Acessibilidade Web.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

@@ -13,7 +13,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, <a href="http://www.umc.br/campus_mogi/graduacao/73/nucleo-de-cursos-superiores-de-tecnologia/analise-e-desenvolvimento-de-sistemas">UMC</a>.
 - 💼 &nbsp; Já trabalhei como freelancer em pequenos projetos para adquirir experiência.</a>
-- 🌱 &nbsp; Estou aprimorando meus conhecimentos em Angular, projetos com arquitetura micro frontend utilizando NX e Acessibilidade Web.
+- 🌱 &nbsp; Estou aprimorando meus conhecimentos em Angular.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
